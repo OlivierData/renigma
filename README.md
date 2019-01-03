@@ -1,6 +1,6 @@
 # renigma
 R code and solution to answer a simple enigma :
-[enigma](./percentage.png)
+![enigma](percentage.png)
 
 ## Source
 This matematical problem is described here : http://www.openmiddle.com/percentages/
