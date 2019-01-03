@@ -1,6 +1,6 @@
 # renigma
-R code and solution to answer a simple enigma : <br />
-Using the digits 0 through 9, at most one time each, fill in the boxes to create a correct sentence:
+R code and solution to answer a simple enigma : <br /><br />
+Using the digits 0 through 9, at most one time each, fill in the boxes to create a correct equation:
 ![enigma](percentage.png)
 
 ## Source
